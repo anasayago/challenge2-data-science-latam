@@ -1,2 +1,2 @@
-# PracticasAI
-Practicas del curso AI Microsoft
+# Challenge Telecom X - Análisis de Evasión de Clientes
+
