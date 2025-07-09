@@ -40,6 +40,9 @@ Este proyecto aborda el análisis de datos de clientes de la empresa Telecom X, 
 * Charges.Monthly: total de todos los servicios del cliente por mes
 * Charges.Total: total gastado por el cliente
 
+#### Vista del JSON
+![alt text](image.png)
+
 ## Pasos principales del análisis
 
 1. **Extracción y carga de datos**: Se importan los datos desde una fuente externa en formato JSON.
